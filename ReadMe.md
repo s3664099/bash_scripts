@@ -20,4 +20,4 @@ Place the script into your bin directory (you will need to have sudo priviledges
 
 'sudo cp push_git /bin' 
 
-Add the following to your 
+Since it is in the bin directory, there will also be a path to that directory, so you can now run it from anywhere
