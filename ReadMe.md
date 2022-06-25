@@ -8,6 +8,16 @@ This script is designed to automate pushing scripts to a github repository. The 
 
 ### Executing the code
 
-* git_push '<include message here>'
+'git_push <include message here in quotes>'
 
 ### Setting up the code
+
+Make the code executable:
+
+'chmod u+x git_push'
+
+Place the script into your bin directory (you will need to have sudo priviledges for this).
+
+'sudo cp push_git /bin' 
+
+Add the following to your 
